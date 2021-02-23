@@ -1,0 +1,63 @@
+<html>
+    <head>
+        <title>Australian cities</title>
+        <style type="text/css">
+        body {
+            margin: 30px;
+        }
+        .OuterBox {
+            display: flexbox;
+            align-items: center;
+            height: 20px;
+            width: 1250px;
+        }
+        .textBox {
+            position: relative;
+            align-items: center;
+            left: 400px;
+        }
+        .flex {
+            column-count: 3;
+            top: 35px;
+            position: relative;
+            justify-content: space-between;
+        }
+        .bigTitle {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 55px;
+        }
+        .combineBox {
+            position: relative;
+            display: grid;
+            text-align: center;
+        }
+        .cityName { 
+            position: static;
+            font-family: Arial, Helvetica, sans-serif;
+            font-style: italic;
+            font-size: 17px;
+        }
+        </style>
+    </head>
+    <body>
+        <div class="OuterBox">  
+            <div class= textBox>
+                <b class="bigTitle">Australian Cities</b>
+            </div>
+            <div class="flex">
+                <div class="combineBox">
+                    <img class="pics" src='https://www.telegraph.co.uk/content/dam/Travel/Destinations/Oceania/Australia/Sydney/sydney-guide-lead-sunset.jpg', width="400" height="275"/>
+                    <div class="cityName">Sydney</div>
+                </div>
+                <div class="combineBox">
+                    <img class="pics" src='https://www.rmit.edu.au/content/dam/rmit/au/en/news/news_Melbourne_AdobeStock.jpg', width="400" height="275"/>
+                    <div class="cityName">Melbourne</div>
+                </div>
+                <div class="combineBox">
+                    <img class="pics" src='https://d31atr86jnqrq2.cloudfront.net/images/aerial-city-adelaide.jpg', width="400" height="275"/>
+                    <div class="cityName">Adelaide</div>
+                </div>               
+            </div>
+        </div>
+    </body>
+</html>
