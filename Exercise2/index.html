@@ -1,0 +1,153 @@
+<html>
+    <head>
+        <title>Exercise 2</title>
+        <style type="text/css">
+
+            body {
+                margin-top: 70px;
+            }
+            * {
+                font-weight: lighter;
+                font-family: sans-serif;
+                line-height: 1.6;
+                color: #7c7c7c;
+                font-size: 16px;
+            }
+            .GeneralLayout {
+                align-items: center;
+                width: 1895px;
+                height: 943px;
+            }
+            .ContentTitle {
+                text-align: center;
+                color: #686868;
+                font-size: 40px;
+            }
+            .Bookings {
+                top: 15px;
+                position: relative;
+                column-count: 2;
+                text-align: center;
+                margin-left: 370px;
+                margin-right: 370px;
+            }
+            p {
+                margin-bottom: -13px; /* between paragraphs */
+            }
+            .bookingTime {
+                font-size: 23px;
+                color: rgb(231, 176, 73);
+            }
+            hr {
+                margin-left: 370px;
+                margin-right: 370px;
+                top: 35px;
+                position: relative;
+                border: none;
+                border-top: 0.25px solid rgb(235, 235, 235);
+            }
+            .line1::after{
+                display: inline-block;
+                content: "Registration for the season begins in August and grading sessions are held in September. Please register if you wish to attend and we will send invites to a grading session via email. Grading sessions are allocated based on previous experience.";
+                text-align: center;
+                font-size: 15.5px;
+                margin-top: 35px;
+                margin-bottom: 35px;
+            }
+            .Reminders {
+                margin-top: 80px;
+                position: relative;
+                text-align: center;
+                margin-left: 370px;
+                margin-right: 370px;    
+            }
+            .reminder1 {
+                float: left;
+                position: relative;
+                width: 550px;
+            } 
+            .reminder2 {
+                float: right;
+                position: relative;
+                width: 580px;
+            }
+            .listContent {
+                margin-left: 3px;
+                margin-right: 0px;
+                margin-top: 40px;
+                text-align: left;
+
+            }
+            b1 {
+                font-weight: 500;
+            }
+            b2 {
+                font-weight: 900;
+            }
+            </style>
+    </head>
+    <body>
+        <div class="GeneralLayout">
+            
+            <div class="ContentTitle">Session Times</div>
+
+            <div class="Bookings">
+                <div class="book">
+                    <div class="bookingTime">Wednesday Training 8pm - 10pm</div>
+                    <div>
+                        <p>
+                            On Wednesday evenings at 8pm, we run training sessions at <b1>Yellow Bridge Gym</b1>.
+                        </p>
+                        <p>
+                            Attendance is mandatory for all team players. We start with warmups, drills and then play games using modified rules with a focus on specific skills.
+                        </p>
+                    </div>
+                </div>
+                <div class="book">
+                    <div class="bookingTime">Saturday Session: 10am - 12am</div>
+                    <div>
+                        <p>
+                            On Saturday mornings at 10am, we play competitive matches at <b1>Sandy Park</b1>.
+                        </p>
+                        <p>
+                            Warm-up begins at 10am, after which we play a full length match, starting at 10:30am.
+                        </p>
+                    </div>            
+                </div>
+            </div>
+
+            <hr class="line1"></hr>
+
+            <hr></hr>
+            
+            <div class="Reminders">
+                <div class="reminder1">
+                    <div class="bookingTime">New to Volleyball?</div>
+                    <div>
+                        <p>
+                            Newcomers to volleyball are welcome to come to <b2>1 free trial</b2> training session before you commit by registration and pay your subscription.
+                        </p>
+                    </div>
+                </div>
+                <div class="reminder2">
+                    <div class="bookingTime">Seasoned player or complete newbie?</div>
+                    <div>
+                        <p>
+                            All levels of players are welcome! However, your level of experience determines which team you will join for your <b2>first season</b2>:
+                        </p>
+                        <ul class="listContent">
+                            <li>
+                                <b2>Know the rules and played before?</b2> Great, let us know which competition, region and division you have previously played in and we will match you with a suitable team.
+                            </li>
+                            <li>
+                                <b2>New to the sport?</b2> No worries! We run specialised training programs to get newcomers up to speed with the rules and skills of the game. We'll get you ready for your first season in a competitive environment.
+                            </li>
+                        </ul>
+                    </div>            
+                </div>
+            </div>
+
+        </div>
+
+    </body>
+</html>
