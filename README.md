@@ -12,4 +12,6 @@ Please note that any copying behaviors and inappropriate paraphrasing might caus
 
 ## Collection Guide
 1. HTML/CSS
-   1. [Exercise 1](https://github.com/zxl010128/Comp6080-FrontendExercises-Collection/tree/main/Exercise1) 
+   1. [Exercise 1](https://github.com/zxl010128/Comp6080-FrontendExercises-Collection/tree/main/Exercise1)
+   2. [Exercise 2](https://github.com/zxl010128/Comp6080-FrontendExercises-Collection/tree/main/Exercise2)
+   3. [Exercise 3](https://github.com/zxl010128/Comp6080-FrontendExercises-Collection/tree/main/Exercise3)
