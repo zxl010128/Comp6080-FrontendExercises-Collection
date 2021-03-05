@@ -17,3 +17,6 @@ Please note that any copying behaviors and inappropriate paraphrasing might caus
    3. [Exercise 3](https://github.com/zxl010128/Comp6080-FrontendExercises-Collection/tree/main/Exercise3)
    4. [Exercise 4](https://github.com/zxl010128/Comp6080-FrontendExercises-Collection/tree/main/Exercise4)
    5. [Exercise 5](https://github.com/zxl010128/Comp6080-FrontendExercises-Collection/tree/main/Exercise5)
+   6. [Exercise 6](https://github.com/zxl010128/Comp6080-FrontendExercises-Collection/tree/main/Exercise6)
+   7. [Exercise 7](https://github.com/zxl010128/Comp6080-FrontendExercises-Collection/tree/main/Exercise7)
+   8. [Exercise 8](https://github.com/zxl010128/Comp6080-FrontendExercises-Collection/tree/main/Exercise8)
