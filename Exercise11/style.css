@@ -1,0 +1,80 @@
+
+* {
+    font-family: Arial;
+}
+
+body {
+    width: 1896px;
+    height: 870px;
+}
+
+.container {
+    width: 1896px;
+    height: 870px;
+    display: flex;
+    flex-direction: column;
+}
+
+#topPart {
+    width: 100%;
+    height: 80%;
+    background-position: center;
+    background-image: url("assets/exercise_2_landing_page.jpg");
+}
+
+#button {
+    border-radius: 50px;
+    margin-bottom: 30px;
+    background-color: #fcdb00;
+    font-size: 33px;
+    width: 40%;
+    padding: 15px 20px;
+    text-align: center;
+}
+
+#fraudIcon {
+    width: 30px;
+    height: 30px;
+}
+
+.content {
+    width: 40%;
+    height: 100%;
+    margin-left: 10%;
+}
+  
+h1 {
+    color: white;
+    font-size: 100px;
+}
+  
+#smallcontent {
+    color: white;
+    font-size: 25px;
+}
+  
+#bottomPart {
+    display: flex;
+    position: relative;
+    justify-content: space-between;
+    height: 20%;
+    background-color: #fcdb00;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+#explanation {
+    margin-top: 90px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#money {
+    margin-top: 30px;
+    font-size: 95px;
+    font-weight: bold;
+}
+  
+sup {
+    font-size: 25px;
+}
