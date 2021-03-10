@@ -1,0 +1,43 @@
+
+body {
+	border: 4px solid rgb(230, 230, 230);
+	height: 669px;
+	width: 1011px;
+	margin: 0%;
+}
+
+.container {
+	padding: 50px 30px 50px 30px;
+}
+
+#giraffe {
+	border: 1px solid rgb(229,229,229);
+	border-radius: 100px;
+	float: right;
+	height: 200px;
+	width: 200px;
+}
+
+#text {
+	padding-top: 10px;
+	line-height: 50px;
+}
+
+#paperCut {
+	margin-top: 5px;
+	width: 263px;
+	height: 175px;
+}
+
+.header {
+	font-family: sans-serif;
+	font-weight: bold;
+	font-size: 25px;
+	letter-spacing: 3px;
+}
+
+.intro {
+	font-family: Helvetica;
+	font-size: 25px;
+	margin-left: 5px;
+}
