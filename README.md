@@ -22,6 +22,8 @@ Please note that any copying behaviors and inappropriate paraphrasing might caus
    7. [Exercise 7](https://github.com/zxl010128/Comp6080-FrontendExercises-Collection/tree/main/Exercise7)
    8. [Exercise 8](https://github.com/zxl010128/Comp6080-FrontendExercises-Collection/tree/main/Exercise8)
    9. [Exercise 11](https://github.com/zxl010128/Comp6080-FrontendExercises-Collection/tree/main/Exercise11)
+   10. [Exercise 13](https://github.com/zxl010128/Comp6080-FrontendExercises-Collection/tree/main/Exercise13)
+   11. [Exercise 14](https://github.com/zxl010128/Comp6080-FrontendExercises-Collection/tree/main/Exercise14)
 
 2. nodeJS
    1. [Exercise 9](https://github.com/zxl010128/Comp6080-FrontendExercises-Collection/tree/main/Exercise9)
