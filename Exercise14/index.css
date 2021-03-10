@@ -1,0 +1,60 @@
+
+* {
+	font-family: "Arial";
+	font-weight: 900;
+}
+
+#container { 
+	background-color: #BBADA0;
+	border-radius: 10px;
+	display: grid;
+	height: 787px;
+	width: 787px;
+	grid-template-rows: repeat(4, 1fr);
+	grid-template-columns: repeat(4, 1fr); 
+	grid-gap: 20px 20px;
+	padding: 20px;
+}
+
+#container > div {
+	text-align: center;
+	padding-top: 45px;
+	border-radius: 10px;
+	font-size: 90px;
+}
+
+.num2 {
+	background-color: #EEE4DA;
+	color: #776E65;
+}
+
+.num4 {
+	background-color: #EDE0C8;
+	color: #776E65;
+}
+
+.num8 {
+	background-color: #F2B179;
+	color: #F9F6F2;
+}
+
+.num16 {
+	background-color: #F59563;
+	color: #F9F6F2;
+}
+
+.num64 {
+	background-color: #F65E3B;
+	color: #F9F6F2;
+}
+
+.num128 {
+	background-color: #EDCF72;
+	color: #F9F6F2;
+}
+
+.empty {
+	background-color: #CDC1B4;
+}
+
+
