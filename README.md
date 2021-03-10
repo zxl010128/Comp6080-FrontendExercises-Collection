@@ -29,3 +29,6 @@ Please note that any copying behaviors and inappropriate paraphrasing might caus
    1. [Exercise 9](https://github.com/zxl010128/Comp6080-FrontendExercises-Collection/tree/main/Exercise9)
    2. [Exercise 10](https://github.com/zxl010128/Comp6080-FrontendExercises-Collection/tree/main/Exercise10)
    3. [Exercise 12](https://github.com/zxl010128/Comp6080-FrontendExercises-Collection/tree/main/Exercise12)
+
+3. HTML + CSS + JS
+   1. [Exercise 15](https://github.com/zxl010128/Comp6080-FrontendExercises-Collection/tree/main/Exercise15)
