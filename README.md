@@ -30,6 +30,7 @@ Please note that any copying behaviors and inappropriate paraphrasing might caus
    2. [Exercise 10](https://github.com/zxl010128/Comp6080-FrontendExercises-Collection/tree/main/Exercise10)
    3. [Exercise 12](https://github.com/zxl010128/Comp6080-FrontendExercises-Collection/tree/main/Exercise12)
    4. [Exercise 17](https://github.com/zxl010128/Comp6080-FrontendExercises-Collection/tree/main/Exercise17)
+   5. [Exercise 21](https://github.com/zxl010128/Comp6080-FrontendExercises-Collection/tree/main/Exercise21)
 
 3. HTML + CSS + JS
    1. [Exercise 15](https://github.com/zxl010128/Comp6080-FrontendExercises-Collection/tree/main/Exercise15)
@@ -38,3 +39,4 @@ Please note that any copying behaviors and inappropriate paraphrasing might caus
    4. [Exercise 19](https://github.com/zxl010128/Comp6080-FrontendExercises-Collection/tree/main/Exercise19)
 
 4. ReactJS
+   1. [Exercise 20](https://github.com/zxl010128/Comp6080-FrontendExercises-Collection/tree/main/Exercise20)
