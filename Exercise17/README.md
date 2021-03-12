@@ -1,8 +1,8 @@
-## Exercise 16- NodeJS & NPM
+## Exercise 17- NodeJS & NPM
 
 In this exercise we will set up an NPM package, install some modules, and then write a nodejs file that uses them, before minifying our code.
 
-1. `cd` into your `Exercise16` folder and run `npm init`. This will create an NPM package in this folder.
+1. `cd` into your `Exercise17` folder and run `npm init`. This will create an NPM package in this folder.
 
 2. Install the `uuid` dependency by running `npm install uuid`. This installs the `uuid` library, which allows you to generate (UUIDs)[https://en.wikipedia.org/wiki/Universally_unique_identifier].
 
