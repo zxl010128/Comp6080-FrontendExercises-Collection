@@ -6,7 +6,7 @@ Although the course COMP6080 is only taught in less than one year in UNSW, it is
 This repo lists the exercises that are very meaningful in this course in the author‘s opinion. 
 
 ## Source
-Most of the exercises and small projects are originally from UNSW Comp6080. All of the given solutions are written by Xinlei Zhang.
+Most of the exercises and small projects are originally from UNSW Comp6080. Most of the given solutions are written by Xinlei Zhang. Some of the solutions are provided by the uni.
 
 Please note that any copying behaviors and inappropriate paraphrasing might cause misconduct or undermine academic integrity by your institution. All rights reserved by Xinlei Zhang.
 
@@ -32,3 +32,5 @@ Please note that any copying behaviors and inappropriate paraphrasing might caus
 
 3. HTML + CSS + JS
    1. [Exercise 15](https://github.com/zxl010128/Comp6080-FrontendExercises-Collection/tree/main/Exercise15)
+
+4. ReactJS
