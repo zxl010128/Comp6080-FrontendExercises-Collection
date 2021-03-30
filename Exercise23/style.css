@@ -1,0 +1,60 @@
+
+/* The CSS style for the structure*/
+body {
+    width: 420px;
+    height: 699px;
+    margin: 0%;
+}
+
+#outerBox {
+    display: flex; 
+    width: 420px; 
+    height: 699px;
+}
+
+#backGround {
+    display: flex; 
+    flex: 12; 
+    flex-direction: row;
+}
+
+/* The CSS style for the Background*/
+.deep {
+    width: 35px;
+    height: 699px;
+    background-color: #021C2D;
+    margin: 0%;
+    padding: 0%;
+}
+
+.light {
+    width: 35px;
+    height: 699px;
+    background-color: #00263F;
+    margin: 0%;
+    padding: 0%;
+}
+
+/* The CSS style for the Box*/
+.pinkBox {
+    width: 29px; 
+    height: 29px;
+    background-color: #E94659;
+    box-shadow: 0 0 0 1px #CE4256, 0 0 0 2px #7E374E, 0 0 0 3px #00263F;
+    
+}
+
+.purpleBox {
+    width: 29px; 
+    height: 29px;
+    background-color: #AE81FF;
+    box-shadow: 0 0 0 1px #9A77E9, 0 0 0 2px #5E58A7, 0 0 0 3px #00263F;
+}
+
+.triangle {
+    width: 0;
+    height: 0;
+    border: 5px solid rgb(223, 223, 223);
+    border-right: 5px solid transparent;
+    border-bottom: 5px solid transparent;
+}

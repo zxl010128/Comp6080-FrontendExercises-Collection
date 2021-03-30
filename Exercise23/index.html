@@ -1,0 +1,85 @@
+<!-- 
+Author: Xinlei Zhang
+ZiD: z5237609
+Term: 2021T1  
+-->
+
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>Task2</title>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        
+        <link rel="stylesheet" href="style.css">
+
+    </head>
+    
+    <body>
+        
+        <div id="outerBox">
+             
+            <!--Background Flex Box-->
+            <div id="backGround">
+                <div class="deep"></div>
+                <div class="light"></div>
+                <div class="deep"></div>
+                <div class="light"></div>
+                <div class="deep"></div>
+                <div class="light"></div>
+                <div class="deep"></div>
+                <div class="light"></div>
+                <div class="deep"></div>
+                <div class="light"></div>
+                <div class="deep"></div>
+                <div class="light"></div>
+            </div>
+
+            <!-- The Box Part-->
+            <!-- The question says “you are only allowed to use HTML and CSS for this task”-->
+            <!-- However Hayden said "we could use JS to solve this problem" on forum-->
+            <!-- Reference: https://edstem.org/courses/5307/discussion/385308 -->
+
+            <!-- Pink Box Creator-->
+            <script>
+                var pinkX = ['667px', '632px', '667px', '632px'];
+                var pinkY = ['38px', '38px', '73px', '73px'];
+                
+                for(x=0; x<4;x++) {
+                    var box = document.createElement('div');
+                    box.className = "pinkBox";
+                    box.style.top = pinkX[x];
+                    box.style.left = pinkY[x];
+                    box.style.position = "absolute";
+
+                    var triangle = document.createElement('div');
+                    triangle.className = "triangle";
+                    box.appendChild(triangle)
+                    document.getElementById('outerBox').appendChild(box);
+                }
+            </script>
+
+            <!-- Purple Box Creator-->
+            <script>
+                var purpleX = ['667px', '667px', '667px', '632px', '457px', '457px', '457px', '422px'];
+                var purpleY = ['353px', '318px', '283px', '318px', '213px', '178px', '143px', '178px'];
+                
+                for(x=0; x<8;x++) {
+                    var box = document.createElement('div');
+                    box.className = "purpleBox";
+                    box.style.top = purpleX[x];
+                    box.style.left = purpleY[x];
+                    box.style.position = "absolute";
+
+                    var triangle = document.createElement('div');
+                    triangle.className = "triangle";
+                    box.appendChild(triangle)
+                    document.getElementById('outerBox').appendChild(box);
+                }
+            </script>
+        
+        </div>		
+
+    </body>
+</html>
