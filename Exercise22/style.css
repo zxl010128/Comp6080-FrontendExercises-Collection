@@ -1,0 +1,87 @@
+
+/* Overall Style Setting*/
+* {
+    font-family: Helvetica;
+    color: rgb(61, 61, 61);
+}
+
+.blackFont {
+    color: black;
+}
+
+body {
+    width: 1219px;
+    height: 883px;
+    margin: 0%;
+}
+
+/* Top Part Style Setting*/
+#topPart {
+    display: flex; 
+    padding-top: 10px; 
+    padding-left: 40px
+}
+
+.intro {
+    width: 800px;
+    height: 140px;
+    font-size: 18px;
+    margin-right: 20px;
+    line-height: 23px;
+}
+
+.KoalaInfo {
+    font-weight: 100;
+    width: 300px;
+    height: 130px;
+    background-color: rgb(235, 232, 232);
+    line-height: 23px;
+    font-size: 15px;
+    color: rgb(80, 79, 79);
+}
+
+#koalaHeader {
+    font-size: 23px; 
+    margin-top: 15px; 
+    margin-left: 20px; 
+    margin-bottom: 10px
+}
+
+.koala {
+    margin-left: 20px;
+}
+
+/* Button Style Setting*/
+.button {
+    margin-left: 15px;
+    margin-top: 25px;
+    width: 230px;
+    height: 40px;
+    background-color: rgb(255, 217, 0);
+    font-weight: 900;
+    font-size: 27px;
+    text-align: center;
+}
+
+#SceneSetting {
+    padding-top: 5px; 
+    color:black; 
+    font-weight: 700;
+}
+
+/* Bottom Part Style Setting*/
+#bottomPart {
+    padding-left: 40px; 
+    padding-right: 40px; 
+    line-height: 25px; 
+    margin-top: 25px;
+}
+
+.content {
+    font-size: 18px;
+    padding-right:17px;
+}
+
+a {
+    color: #152cf8;
+}
